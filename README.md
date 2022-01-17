@@ -26,12 +26,12 @@
 ### Credits:
 <b> All Credits to create this Bot is Goes to </b>
 
-•× <b> Telegram </b>
+
 • 『𝄞⃝Ⱡⓞꪜє℟ 𝅘𝅥𝅯⃝⃤B͛Ꮻ𝐘』🇮🇳:』: <br>
 
- <a href="https://t.me/Alone_loverboy"> <img src="https://img.shields.io/badge/loverboy-leaderdev-black?style=social&logo=telegram" alt="DEVELOPER" /></a>
+•<b> Telegram: </b> <a href="https://t.me/Alone_loverboy"> <img src="https://img.shields.io/badge/loverboy-leaderdev-black?style=social&logo=telegram" alt="DEVELOPER" /></a>
 </br> 
-<b> GitHub </b> <a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a> 
+•<b> GitHub: </b> <a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a> 
 
 </hr>  
 
