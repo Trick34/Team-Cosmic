@@ -9,7 +9,7 @@
 <ul>
   <b> Steps </b>
   <li> Deploy a New App </li>
-  <li> Create new Vars with name </br> • `API_ID` - <i>Your Telegram API-ID</i> </br> • `API_HASH` - <i> Your Telegram API-HASH </i> </br> • `TOKEN` - <i> Your Bot Token </i> </br> • `FRWD_GP` - <i> Group id where users messages will be delivered and service message </i> </li> 
+  <li> Create new Vars with name </br> • API_ID - <i>Your Telegram API-ID</i> </br> • API_HASH - <i> Your Telegram API-HASH </i> </br> • TOKEN - <i> Your Bot Token </i> </br> • FRWD_GP - <i> Group id where users messages will be delivered and service message </i> </li> 
   <li> Turn on Procfile </li> 
   <li> That's it! </li> 
 </ul> 
@@ -18,8 +18,8 @@
 <ul> 
   <b> Steps </b>
   <li> Foke The Repository </li> 
-  <li> Edit File `RNbot.py` </li>
-  </li> Replace `API_ID`, `API_HASH`, `TOKEN`, `FRWD_GRP` </li> 
+  <li> Edit File RNbot.py </li>
+  </li> Replace API_ID, API_HASH, TOKEN, FRWD_GRP </li> 
   <li> Run </li> 
   <li> that's it! </li>
 
@@ -33,7 +33,8 @@
 </br> 
 <b> GitHub </b> <a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a> 
 
-</hr> 
+</hr>  
+
 #### and 
 
 ```
