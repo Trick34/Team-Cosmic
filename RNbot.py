@@ -16,7 +16,7 @@ API_ID = int(os.environ.get("API_ID", 6))
 API_HASH = os.environ.get("API_HASH", "")
 TOKEN = os.environ.get("TOKEN", "")
 FRWD_GP = os.environ.get("FRWD_GP", None) 
-    if FRWD_GP is not None:
+if FRWD_GP is not None:
        try:
            FRWD_GP = int(FRWD_GP)
        except ValueError:
