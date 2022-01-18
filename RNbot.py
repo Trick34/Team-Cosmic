@@ -83,15 +83,15 @@ async def aply(event):
         Button.inline('Binning', data="bin")
         ],
         [
-          Button.inline("Bintester", data="bints"),
+          Button.inline("Hacking/cc checker maker", data="bints"),
           Button.inline("Cracker", data="ckr")
         ],
         [
-          Button.inline("Developer", data="dev")
+          Button.inline("Developer/dumper", data="dev")
         ],
         [
-          Button.inline("Cc/Combo Maker", data="ccmake"),
-          Button.inline("Cc Spammer", data="ccspamr")
+          Button.inline("Config/Combo Maker", data="ccmake"),
+          Button.inline("Cc Spammer/bomber", data="ccspamr")
         ],
         [
         Button.inline("Docker", data="dokr")
