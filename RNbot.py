@@ -194,7 +194,7 @@ async def spmr(event):
         first_name = sender.first_name 
         xx = sender.id
         await event.edit(f"__Hey [{first_name}](tg://user?id={xx})  You Have Sucessfully__ applied for `CC Spammer/bomber` __for our Community!__\n\n**We need to check your Skills.! PLEASE Come to** [Skills Tester MODERATORS](https://t.me/TC_ENTRY) For Test**.")
-        tosend = f"Hey MODERATORS [{first_name}](tg://user?id={xx}) Has Applied for `CC Spammer` Skill\n\nPlease Have Test of [{first_name}](tg://user?id={xx}) 's Skills!\n\nUSER INFO:\n•ID: {xx}\n•Name: {first_name}\n•Username: {sender.@username}•\nProfile Link: [Link](tg://user?id={xx})"
+        tosend = f"Hey MODERATORS [{first_name}](tg://user?id={xx}) Has Applied for `CC Spammer` Skill\n\nPlease Have Test of [{first_name}](tg://user?id={xx}) 's Skills!\n\nUSER INFO:\n•ID: {xx}\n•Name: {first_name}\n•Username: {sender.username}•\nProfile Link: [Link](tg://user?id={xx})"
         await bot.send_message(FRWD_GP, tosend)
         
     # <--User Message frwdr--> 
