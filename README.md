@@ -3,7 +3,7 @@
 ### This bot is just for Community Team-Cosmic</br> through which We Can Take Entries 🤗 to our New Members
 
 ### Deployment: 
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/loverboyXD/)
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/loverboyXD/Team-Cosmic)
 
 ### Deploy on Heroku:
 <ul>
