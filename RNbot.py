@@ -57,7 +57,7 @@ async def start(event):
             Button.inline("ᴀᴘᴘʟʏ ᴛᴏ ᴄᴏᴍᴍᴜɴɪᴛʏ", data="aply")
          ],
          [
-            Button.inline("Cᴏɴᴀᴛᴄᴛ ᴜs", data="contact"),
+            Button.inline("Cᴏɴᴛᴀᴄᴛ ᴜs", data="contact"),
             Button.inline("ᴀʙᴏᴜᴛ ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ", data="abt")
             ] 
             ]) 
